@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fl{float: left;}
+.fr{
+    float: right;
+}
+::-webkit-scrollbar {
+    display: none; /* Chrome Safari */
+  }
+.mr{
+    margin-right: 10px;
+}
+.ml{
+    margin-left: 10px;
+}
+.mt{
+    margin-top: 10px;
+}
+.mb{
+    margin-bottom: 10px;
+}
